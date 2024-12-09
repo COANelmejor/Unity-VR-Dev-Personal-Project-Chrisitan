@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LayerNames:
   - Default
-  - 
-  - 
-  - 
-  - 
+  - Grab_Food
+  - Grab_Meat
+  - Grab_Plate
+  - Grab_Garnish
   - 
   - 
   - 
